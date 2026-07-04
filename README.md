@@ -25,6 +25,8 @@ Parce que chaque étape demande une présence différente : déposer n'est pas l
 
 Le pont entre les trois est volontairement simple et entièrement local : Pléniel n'exporte rien automatiquement ; Selah génère à la demande un export JSON (`selah-emmaus-AAAA-MM-JJ.json`) à partir des prières de Pléniel, prêt à être relu dans Emmaüs. Aucune donnée ne transite par un serveur.
 
+> **Selah n'a pas d'existence autonome.** Pléniel et Emmaüs fonctionnent chacun seul (l'un pour prier, l'autre pour une méditation de guérison, même sans le reste du Trio). Selah, au milieu, n'a rien à contempler sans les données de Pléniel, et rien à transmettre sans Emmaüs pour les recevoir — installer Selah isolément, sur un appareil où Pléniel n'a jamais été utilisé, ne donne accès à rien de significatif.
+
 ## Les trois dépôts
 
 | App | Rôle | Dépôt |
